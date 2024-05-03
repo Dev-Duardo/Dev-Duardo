@@ -11,5 +11,7 @@
 
 ## GitHub Status
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Duardo&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Dev-Duardo&show_icons=true&theme=vision-friendly-dark">
 
 ## 
